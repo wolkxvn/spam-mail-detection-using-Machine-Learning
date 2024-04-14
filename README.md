@@ -1,4 +1,4 @@
-# spam-mail-detection-using-Machine-Learning
+# spam-mail-detection-using-Machine-Learning - Random Forest Classifier Algorithm
 
 Project Overview
 
